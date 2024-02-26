@@ -1,6 +1,6 @@
 
 
-### 👋 Hi, I'm Loukas!
+# 👋 Hi, I'm Loukas!
 
 - 👩🏻‍💻 Web Developer<br/>
 - 👩🏻‍🎓 Studied Web Design & Development<br/>
