@@ -2,8 +2,8 @@
 
 # 👋 Hi, I'm Loukas!
 
-- 👩🏻‍💻 Web Developer<br/>
-- 👩🏻‍🎓 Studied Web Design & Development<br/>
+- 👩🏻‍💻 Web Developer
+- 👩🏻‍🎓 Studied Web Design & Development
 - 🌱 I’m currently expanding my knowledge on front-end development
 - 👯 I’m looking to collaborate on open source projects
 
